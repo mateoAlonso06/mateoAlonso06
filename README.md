@@ -3,21 +3,20 @@
 </div>
 
 <h3 align="center">
-  Hola, soy Mateo Alonso
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   Hi, I'm Mateo Alonso
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;University+Student;Always+learning" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-- 👨‍💻 Como estudiante de programación y desarrollador full-stack en formación, estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.  
-- 💬 Pregúntame sobre mi experiencia en desarrollo de APIs Rest con **Java + Spring Boot**, **PostgreSQL**, **JDBC**, **Docker** y el diseño de **interfaces con principios UX/UI**.  
-- 🌱 Actualmente sigo profundizando en el **desarrollo backend**, adoptando técnicas y buenas prácticas que me ayuden a crecer como profesional.  
+- 👨‍💻 As a programming student and full-stack developer in training, I’m constantly learning and exploring new technologies to improve my skills.  
+- 💬 Ask me about my experience in building REST APIs with **Java + Spring Boot**, **SQL**, **Design Patterns**, **Docker**, and designing **interfaces with UX/UI principles**.  
+- 🌱 I’m currently deepening my knowledge in **backend development**, adopting techniques and best practices that help me grow as a professional.  
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -59,7 +58,3 @@
 </div>
 
 ------
-
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
