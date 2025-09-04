@@ -1,39 +1,43 @@
-# 👋 ¡Hola! Soy Mateo
+# 👋 Hi! I'm Mateo
 
-🎓 **Estudiante de Programación** en la UNICEN — apasionado por el desarrollo **full‑stack** con foco en Java + Spring Boot y frontend con HTML/CSS/J
+🎓 **Programming Student** at UNICEN — passionate about **full‑stack** development focused on Java + Spring Boot and frontend with HTML/CSS/JavaScript
 
 ---
 
-## 🚀 Sobre mí
-Soy un desarrollador en formación que busca consolidar conocimientos prácticos y crecer tanto personalmente como profesionalmente
+## 🚀 About me
+I am a developer in training who seeks to consolidate practical knowledge and grow both personally and professionally.
 ---
 
-🛠️ Tecnologías y herramientas
+🛠️ Technologies and tools
 
-- Lenguajes: Java, SQL, JavaScript (ES6+), HTML5, CSS3
+- Languages: Java, SQL, JavaScript (ES6+), HTML5, CSS3
 - Backend: Spring Boot, JDBC, JPA / Hibernate
 - Frontend: Angular, Mobile-first, CSS Grid, BEM, Vanilla JS
-- Bases de datos: PostgreSQL, MySQL
+- Databases: PostgreSQL, MySQL
 - DevOps: Docker, Docker Compose, Git, GitHub, Maven
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured projects
 
 ### FinanceApp 💰
-Aplicación full‑stack (Actualmente solo backend) para gestión de gastos personales.
+Full‑stack application (currently backend only) for managing personal expenses.
 - Backend: Java 17 + Spring Boot  
-- BD: PostgreSQL  
+- DB: PostgreSQL  
 
 ---
 
-## 🔎 En lo que estoy aprendiendo
-- Spring Security (autenticación y autorización de APIs)
-- Testing y Documentación  
-- Workflows colaborativos con GitHub y GitHub Copilot  
-- Docker avanzado y orquestación básica con Compose
+## 🔎 What I'm learning
+- Spring Security (authentication and authorization for APIs)
+- Testing and Documentation
+- Microservices
+- ReactJS
+- UX/UI design and Figma
+- Cloud
+- Collaborative workflows with GitHub and GitHub Copilot  
+- Advanced Docker and basic orchestration with Compose
 
 ---
 
-## 📫 Conectemos
+## 📫 Let's connect
 - **Email:** alonsomateo2002@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/mateoalonso20/
