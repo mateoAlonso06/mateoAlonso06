@@ -1,43 +1,49 @@
 # 👋 Hi! I'm Mateo
 
-🎓 **Programming Student** at UNICEN — passionate about **full‑stack** development focused on Java + Spring Boot and frontend with HTML/CSS/JavaScript
+🎓 Software Developer. (TUDAI at UNICEN). I specialize in **Backend development with Java and Spring Boot**, and I also have hands-on experience in Frontend.
 
 ---
 
-## 🚀 About me
-I am a developer in training who seeks to consolidate practical knowledge and grow both personally and professionally.
----
+## 🚀 About Me
 
-🛠️ Technologies and tools
-
-- Languages: Java, SQL, JavaScript (ES6+), HTML5, CSS3
-- Backend: Spring Boot, JDBC, JPA / Hibernate
-- Frontend: Angular, Mobile-first, CSS Grid, BEM, Vanilla JS
-- Databases: PostgreSQL, MySQL
-- DevOps: Docker, Docker Compose, Git, GitHub, Maven
----
-
-## 📌 Featured projects
-
-### FinanceApp 💰
-Full‑stack application (currently backend only) for managing personal expenses.
-- Backend: Java 17 + Spring Boot  
-- DB: PostgreSQL  
+As a developer with a strong focus on backend technologies, my passion extends to web development and software in general. I enjoy taking on challenges to create robust applications and combining my passion for technology.
 
 ---
 
-## 🔎 What I'm learning
-- Spring Security (authentication and authorization for APIs)
-- Testing and Documentation
-- Microservices
-- ReactJS
-- UX/UI design and Figma
-- Cloud
-- Collaborative workflows with GitHub and GitHub Copilot  
-- Advanced Docker and basic orchestration with Compose
+## 🛠️ Technical Skills
+
+* **Backend:** Java, Spring Framework (Spring Boot, Spring Security), REST API, Maven
+* **Databases:** SQL (PostgreSQL)
+* **Frontend:** HTML, CSS, JavaScript
+* **Testing:** JUnit, Mockito
+* **Tools & DevOps:** Git, Docker, Postman, Linux
+* **Methodologies:** Agile (Scrum), Jira
 
 ---
 
-## 📫 Let's connect
-- **Email:** alonsomateo2002@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/mateoalonso20/
+## 📌 Featured Projects
+
+### 🎓 Educatech - E-learning Platform REST API
+A RESTful API developed with Java and Spring Boot to manage the business logic of an e-learning platform, implementing CRUD operations and advanced features.
+- **Tech Stack:** Java, Spring Boot, JPA/Hibernate, PostgreSQL, DTOs.
+- **Status:** In active development, currently implementing Spring Security, Microservices, and Testing.
+- **Repository:** [**educatech-api**](https://github.com/mateoAlonso06/educatech-api)
+
+### 🎮 InsertCoin - Online Gaming Website (Academic Project)
+An online gaming website developed as part of a team, with a strong focus on user experience and collaboration. This project was key to applying Agile methodologies with Jira and strengthening teamwork using Git/GitHub.
+- **Tech Stack:** HTML, CSS (Animations), JavaScript (Vanilla), Figma.
+- **Repository:** [**insert-coin"](https://github.com/mateoAlonso06/InsertCoin-interfaces-de-usuario)
+
+---
+
+## 🔎 Currently Learning
+
+- **Advanced Security & Testing:** Deepening my knowledge of Spring Security and applying TDD with JUnit/Mockito.
+- **Scalable Architectures:** Exploring Microservices and orchestration with Docker.
+- **Cloud:** Learning the fundamentals of deployment on cloud platforms.
+- **Frontend:** Expanding my skills with the Angular framework.
+
+---
+
+## 📫 Contact
+- 💼 **LinkedIn:** [**in/mateoalonso**](https://www.linkedin.com/in/mateoalonso20/)
