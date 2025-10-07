@@ -32,7 +32,7 @@ A RESTful API developed with Java and Spring Boot to manage the business logic o
 ### 🎮 InsertCoin - Online Gaming Website (Academic Project)
 An online gaming website developed as part of a team, with a strong focus on user experience and collaboration. This project was key to applying Agile methodologies with Jira and strengthening teamwork using Git/GitHub.
 - **Tech Stack:** HTML, CSS (Animations), JavaScript (Vanilla), Figma.
-- **Repository:** [**insert-coin"](https://github.com/mateoAlonso06/InsertCoin-interfaces-de-usuario)
+- **Repository:** [**insert-coin**](https://github.com/mateoAlonso06/InsertCoin-interfaces-de-usuario)
 
 ---
 
