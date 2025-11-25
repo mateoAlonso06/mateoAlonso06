@@ -21,21 +21,6 @@ As a developer with a strong focus on backend technologies, my passion extends t
 
 ---
 
-## 📌 Featured Projects
-
-### 🎓 Educatech - E-learning Platform REST API
-A RESTful API developed with Java and Spring Boot to manage the business logic of an e-learning platform, implementing CRUD operations and advanced features.
-- **Tech Stack:** Java, Spring Boot, JPA/Hibernate, PostgreSQL, DTOs.
-- **Status:** In active development, currently implementing Spring Security, Microservices, and Testing.
-- **Repository:** [**educatech-api**](https://github.com/mateoAlonso06/educatech-api)
-
-### 🎮 InsertCoin - Online Gaming Website (Academic Project)
-An online gaming website developed as part of a team, with a strong focus on user experience and collaboration. This project was key to applying Agile methodologies with Jira and strengthening teamwork using Git/GitHub.
-- **Tech Stack:** HTML, CSS (Animations), JavaScript (Vanilla), Figma.
-- **Repository:** [**insert-coin**](https://github.com/mateoAlonso06/InsertCoin-interfaces-de-usuario)
-
----
-
 ## 🔎 Currently Learning
 
 - **Advanced Security & Testing:** Deepening my knowledge of Spring Security and applying TDD with JUnit/Mockito.
