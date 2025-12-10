@@ -1,34 +1,39 @@
-# 👋 Hi! I'm Mateo
+👋 Hi! I'm Mateo
 
-🎓 Software Developer. (TUDAI at UNICEN). I specialize in **Backend development with Java and Spring Boot**, and I also have hands-on experience in Frontend.
+🎓 Software Developer (TUDAI @ UNICEN)
+Focused on Backend development with Java & Spring Boot, with Full Stack projection and strong interest in fintech, banking systems, and algorithmic trading.
 
----
+🚀 About Me
 
-## 🚀 About Me
+I'm a backend-oriented software developer with hands-on experience building scalable, secure, and well-tested applications using Java and Spring Boot.
+I enjoy working with APIs, microservices, and system design, and I’m especially motivated by the challenges of financial and high-performance systems.
 
-As a developer with a strong focus on backend technologies, my passion extends to web development and software in general. I enjoy taking on challenges to create robust applications and combining my passion for technology.
+Currently, I’m complementing my backend stack with Frontend development and Python for trading & automation, aiming to grow as a Full Stack developer in fintech environments.
 
----
+🛠️ Technical Skills
 
-## 🛠️ Technical Skills
+Backend: Java, Spring Boot, Spring Security, REST APIs, Maven
 
-* **Backend:** Java, Spring Framework (Spring Boot, Spring Security), REST API, Maven
-* **Databases:** SQL (PostgreSQL)
-* **Frontend:** HTML, CSS, JavaScript
-* **Testing:** JUnit, Mockito
-* **Tools & DevOps:** Git, Docker, Postman, Linux
-* **Methodologies:** Agile (Scrum), Jira
+Databases: PostgreSQL, MySQL, MongoDB
 
----
+Frontend: HTML, CSS, JavaScript
 
-## 🔎 Currently Learning
+Testing: JUnit, Mockito
 
-- **Advanced Security & Testing:** Deepening my knowledge of Spring Security and applying TDD with JUnit/Mockito.
-- **Scalable Architectures:** Exploring Microservices and orchestration with Docker.
-- **Cloud:** Learning the fundamentals of deployment on cloud platforms.
-- **Frontend:** Expanding my skills with the Angular framework.
+Tools & DevOps: Git, Docker, Postman, Linux
 
----
+Methodologies: Agile (Scrum), Jira
 
-## 📫 Contact
-- 💼 **LinkedIn:** [**in/mateoalonso**](https://www.linkedin.com/in/mateoalonso20/)
+🔎 Currently Learning
+
+Fintech & Trading: Python applied to data processing and algorithmic trading
+
+Security & Testing: Advanced Spring Security and TDD with JUnit/Mockito
+
+Scalable Architectures: Microservices and container orchestration with Docker
+
+Frontend: Strengthening my skills with Angular
+
+📫 Contact
+
+💼 LinkedIn: in/mateoalonso20
