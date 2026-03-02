@@ -19,7 +19,7 @@ I enjoy building well-structured applications with clean architecture patterns a
 ### [Open CoreBank API](https://github.com/mateoAlonso06/core-banking-api)
 A full-featured **homebanking system** built with Java and Spring Boot following **hexagonal architecture** principles. It covers core banking operations including account management, transactions, and transfers. Deployed using **AWS services** (RDS for database hosting, EC2 and Parameter Store for enviroment variables).
 
-The api is consumed by a web client built with React & TypeScript: [Open CoreBank Frontend](https://github.com/mateoAlonso06)
+The api is consumed by a web client built with React & TypeScript: [Open CoreBank Frontend](https://github.com/mateoAlonso06/open-corebank-frontend)
 
 ## 📚 Currently
 
