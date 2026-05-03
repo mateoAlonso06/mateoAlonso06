@@ -1,31 +1,46 @@
 # Hey, I'm Mateo Alonso 👋
 
-Software developer focused on **Java** and **Spring Boot**, currently pursuing a degree in Application Development (*Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas*).
+**Backend Developer | Java & Spring Boot | RESTful API Design**
 
-I enjoy building well-structured applications with clean architecture patterns and I'm always looking to grow as a developer.
+I am a Software Developer specializing in building secure, maintainable, and scalable backend services. Currently in the advanced stages of my Software Development degree, I focus on applying clean architecture concepts, SOLID principles, and efficient database modeling to deliver robust, testable code.
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+**Backend & Data:**
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infrastructure, DevOps & Observability:**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Frontend Integration:**
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ## 🚀 Featured Project
 
-### [Open CoreBank API](https://github.com/mateoAlonso06/core-banking-api)
-A full-featured **homebanking system** built with Java and Spring Boot following **hexagonal architecture** principles. It covers core banking operations including account management, transactions, and transfers. Deployed using **AWS services** (RDS for database hosting, EC2 and Parameter Store for enviroment variables).
+### [Core Banking System API](https://github.com/mateoAlonso06/core-banking-api)
+A modular monolith RESTful API simulating a core banking platform, engineered with **Java 21** and **Spring Boot 3**. 
 
-The api is consumed by a web client built with React & TypeScript: [Open CoreBank Frontend](https://github.com/mateoAlonso06/open-corebank-frontend)
+- **Architecture:** Strict Hexagonal Architecture (Ports & Adapters) handling multi-currency operations and KYC workflows.
+- **Security & Concurrency:** Distributed rate-limiting (Redis/Bucket4j), JWT with rotating refresh tokens, and optimistic locking to prevent race conditions in financial transactions.
+- **Resilience:** Fault-tolerant asynchronous email notifications implemented via Resilience4j (Circuit Breaker/Retry).
+- **Quality & Infrastructure:** Thoroughly tested with Testcontainers/JaCoCo and deployed on **AWS** (EC2, RDS) with a complete observability stack (Prometheus, Grafana, Loki, Tempo).
+
+> 🔗 API seamlessly integrated with: [Open CoreBank Frontend (React/TS)](https://github.com/mateoAlonso06/open-corebank-frontend)
 
 ## 📚 Currently
 
-- 🎓 Finishing my degree in Application Development at university
-- 🌱 Expanding my skills in cloud services and software architecture
-- ☁️ Preparing for the **AWS Cloud Practitioner** certification
+- 🎓 Completing my Software Development degree (*TUDAI*).
+- ☁️ Preparing for the **AWS Certified Cloud Practitioner** exam.
+- 🌱 Expanding my backend stack into **Distributed Systems**, **Resilience Patterns**, and **Event-Driven Architecture**.
 
 ## 📫 Let's Connect
 
