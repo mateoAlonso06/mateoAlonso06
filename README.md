@@ -1,4 +1,4 @@
-# Hi, I'm Mateo Alonso 👋
+# Hi, I'm Mateo Alonso 🧉
 
 **Backend Developer · Java & Spring Boot · RESTful API Design**
 
@@ -29,15 +29,7 @@ Modular monolith REST API simulating a core banking platform, built with **Java 
 
 ## ⚙️ Tech Stack
 
-**Backend** — Java 21 · Spring Boot 3 · Spring Security
-
-**Data** — PostgreSQL · MySQL · Redis
-
-**Infra & DevOps** — AWS (EC2, RDS) · Docker · GitHub Actions · Linux
-
-**Observability** — Prometheus · Grafana · Loki · Tempo
-
-**Testing** — JUnit · Mockito · Testcontainers · JaCoCo
+Java 21 · Spring Boot 3 · Spring Security · PostgreSQL · MySQL · Redis · AWS (EC2, RDS) · Docker · GitHub Actions · Linux · Prometheus · Grafana · Loki · Tempo · JUnit · Mockito · Testcontainers · JaCoCo
 
 ---
 
@@ -50,4 +42,6 @@ Modular monolith REST API simulating a core banking platform, built with **Java 
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/mateoalonso20/) · [Email](mailto:alonsomateo2002@gmail.com)
+[LinkedIn](https://linkedin.com/in/mateoalonso20/)
+
+[Email](mailto:alonsomateo2002@gmail.com)
