@@ -1,48 +1,53 @@
-# Hey, I'm Mateo Alonso 👋
+# Hi, I'm Mateo Alonso 👋
 
-**Backend Developer | Java & Spring Boot | RESTful API Design**
+**Backend Developer · Java & Spring Boot · RESTful API Design**
 
-I am a Software Developer specializing in building secure, maintainable, and scalable backend services. Currently in the advanced stages of my Software Development degree, I focus on applying clean architecture concepts, SOLID principles, and efficient database modeling to deliver robust, testable code.
+Backend developer focused on building secure, maintainable and scalable services. Advanced student of the TUDAI software development degree at UNICEN
 
-## ⚙️ Tech Stack & Tools
+---
 
-**Backend & Data:**
+## 🛠️ Experience
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Full-Stack Developer — Internship @ UNICEN** · *Jan 2026 – Present*
 
-**Infrastructure, DevOps & Observability:**
+Building a library management system from scratch to replace the legacy infrastructure of the CRESTA institute: relational database design (MySQL), a documented REST API (PHP / Swagger), a responsive UI, an ETL data migration, and automated testing integrated into CI/CD (GitHub Actions, Docker).
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**Frontend Integration:**
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+---
 
 ## 🚀 Featured Project
 
-### [Core Banking System API](https://github.com/mateoAlonso06/core-banking-api)
-A modular monolith RESTful API simulating a core banking platform, engineered with **Java 21** and **Spring Boot 3**. 
+### [Open CoreBank — Core Banking API](https://github.com/mateoAlonso06/core-banking-api)
+Modular monolith REST API simulating a core banking platform, built with **Java 21** and **Spring Boot 3** under a strict **Hexagonal Architecture** (Ports & Adapters).
 
-- **Architecture:** Strict Hexagonal Architecture (Ports & Adapters) handling multi-currency operations and KYC workflows.
-- **Security & Concurrency:** Distributed rate-limiting (Redis/Bucket4j), JWT with rotating refresh tokens, and optimistic locking to prevent race conditions in financial transactions.
-- **Resilience:** Fault-tolerant asynchronous email notifications implemented via Resilience4j (Circuit Breaker/Retry).
-- **Quality & Infrastructure:** Thoroughly tested with Testcontainers/JaCoCo and deployed on **AWS** (EC2, RDS) with a complete observability stack (Prometheus, Grafana, Loki, Tempo).
+- **Security & concurrency** — JWT with rotating refresh tokens, distributed rate-limiting (Redis / Bucket4j), and optimistic locking to prevent race conditions on financial transactions.
+- **Resilience** — fault-tolerant asynchronous notifications via Resilience4j (Circuit Breaker / Retry).
+- **Quality & infrastructure** — tested with Testcontainers + JaCoCo, deployed on **AWS** (EC2, RDS) with a full observability stack (Prometheus, Grafana, Loki, Tempo).
 
-> 🔗 API seamlessly integrated with: [Open CoreBank Frontend (React/TS)](https://github.com/mateoAlonso06/open-corebank-frontend)
+🔗 Consumed by a [React + TypeScript frontend](https://github.com/mateoAlonso06/open-corebank-frontend).
+
+---
+
+## ⚙️ Tech Stack
+
+**Backend** — Java 21 · Spring Boot 3 · Spring Security
+
+**Data** — PostgreSQL · MySQL · Redis
+
+**Infra & DevOps** — AWS (EC2, RDS) · Docker · GitHub Actions · Linux
+
+**Observability** — Prometheus · Grafana · Loki · Tempo
+
+**Testing** — JUnit · Mockito · Testcontainers · JaCoCo
+
+---
 
 ## 📚 Currently
 
-- 🎓 Completing my Software Development degree (*TUDAI*).
-- ☁️ Preparing for the **AWS Certified Cloud Practitioner** exam.
-- 🌱 Expanding my backend stack into **Distributed Systems**, **Resilience Patterns**, and **Event-Driven Architecture**.
+- 🎓 Finishing my software development degree (*TUDAI* @ UNICEN).
+- 🌱 Going deeper into distributed systems, resilience patterns and event-driven architecture.
 
-## 📫 Let's Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoalonso20/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alonsomateo2002@gmail.com)
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/mateoalonso20/) · [Email](mailto:alonsomateo2002@gmail.com)
