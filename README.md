@@ -47,15 +47,6 @@ Domain-driven REST API replacing a 15-year legacy institutional system in a prod
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateoAlonso06&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&cache_seconds=1800" height="150" alt="Mateo Alonso GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoAlonso06&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoalonso20)
